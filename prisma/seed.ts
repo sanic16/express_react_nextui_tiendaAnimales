@@ -31,7 +31,8 @@ const products: PuppylProduct[] = [
     name: "Pastor Aleman",
     description:
       "Pastor Aleman de 6 meses, vacunado y desparasitado, listo para un nuevo hogar.",
-    image: "https://images.unsplash.com/photo-1560807707-9b1b8b5e0f0b",
+    image:
+      "https://tienda-animales.s3.amazonaws.com/nyegi-aWb5cnhjvt0-unsplash.jpg",
     breed: "Pastor Aleman",
     price: 1200,
     category: "Perros",
@@ -43,7 +44,8 @@ const products: PuppylProduct[] = [
     name: "Bulldog Frances",
     description:
       "Bulldog Frances de 3 meses, vacunado y desparasitado, listo para un nuevo hogar.",
-    image: "https://images.unsplash.com/photo-1556740731-4c6f2d6e9d2b",
+    image:
+      "https://tienda-animales.s3.amazonaws.com/samuel-charron-VLCIceb-Hw0-unsplash.jpg",
     breed: "Bulldog Frances",
     price: 1500,
     category: "Perros",
@@ -55,7 +57,8 @@ const products: PuppylProduct[] = [
     name: "American Pitbull",
     description:
       "American Pitbull de 5 meses, vacunado y desparasitado, listo para un nuevo hogar. Solo para personas con experiencia en la raza.",
-    image: "https://images.unsplash.com/photo-1560807707-9b1b8b5e0f0b",
+    image:
+      "https://tienda-animales.s3.amazonaws.com/judy-beth-morris-JHnRRgSnHUA-unsplash.jpg",
     breed: "American Pitbull",
     price: 1000,
     category: "Perros",
@@ -67,7 +70,8 @@ const products: PuppylProduct[] = [
     name: "Tortuga de orejas rojas",
     description:
       "Tortuga de orejas rojas de 1 año, sana y activa, lista para un nuevo hogar.",
-    image: "https://images.unsplash.com/photo-1560807707-9b1b8b5e0f0b",
+    image:
+      "https://tienda-animales.s3.amazonaws.com/luke-scarpino-kWPQnL4fHnc-unsplash.jpgs",
     breed: "Tortuga de orejas rojas",
     price: 100,
     category: "Reptiles",
@@ -79,7 +83,8 @@ const products: PuppylProduct[] = [
     name: "Gato Persa",
     description:
       "Gato Persa de 4 meses, vacunado y desparasitado, listo para un nuevo hogar.",
-    image: "https://images.unsplash.com/photo-1560807707-9b1b8b5e0f0b",
+    image:
+      "https://tienda-animales.s3.amazonaws.com/kiyana-5np8WDJN4fY-unsplash.jpg",
     breed: "Gato Persa",
     price: 800,
     category: "Gatos",
@@ -91,7 +96,8 @@ const products: PuppylProduct[] = [
     name: "Boa Constrictor",
     description:
       "Boa Constrictor macho de 5 años, sana y activa, lista para un nuevo hogar.",
-    image: "https://images.unsplash.com/photo-1560807707-9b1b8b5e0f0b",
+    image:
+      "https://tienda-animales.s3.amazonaws.com/justin-ziadeh-fQ_2UILw37c-unsplash.jpg",
     breed: "Boa Constrictor",
     price: 5000,
     category: "Reptiles",
